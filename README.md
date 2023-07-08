@@ -5,7 +5,7 @@
 ### About Me:
 Hello! I am a frontend-developer.
 - I develop websites, web-applications and games.
-- I use Single Page Application (SPA), Progressive Web Application (PWA), Frontend for Multi Page Application (MPA) approaches.
+- I use Single Page Applications (SPA), Progressive Web Applications (PWA), Frontend for Multi Page Applications (MPA) approaches.
 - I use Native JavaScript, React and Redux, Vue and Vite, Handlebars.
 
 <div align="center">
