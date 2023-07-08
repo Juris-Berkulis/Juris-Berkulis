@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="https://github.com/Juris-Berkulis/Juris-Berkulis/blob/main/cube.gif" alt="cube" width="80" height="80"/>
+</div>
+
 ### About Me:
 Hello! I am a frontend-developer.
 - I develop websites, web-applications and games.
 - I use Single Page Application (SPA), Progressive Web Application (PWA), Frontend for Multi Page Application (MPA) approaches.
 - I use Native JavaScript, React and Redux, Vue and Vite, Handlebars.
 
-<div id="header" align="center">
+<div align="center">
   <div id="badges">
     <a href="https://github.com/Juris-Berkulis">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
