@@ -13,7 +13,6 @@ Hello! I am a frontend-developer.
       <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
     </a>
   </div>
-<!--   <img src="https://komarev.com/ghpvc/?username=Juris-Berkulis&style=plastic&color=006600&label=PROFILE+VIEWS" alt=""/> -->
 </div>
 
 ---
@@ -39,11 +38,11 @@ Hello! I am a frontend-developer.
 ---
 
 ### My Stats :
-|Top Langs | GitHub stats |
+|Top Langs | GitHub Stats |
 | :------: | :----------: |
 | | |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&custom_title=Most+used+languages:&show_icons=true&langs_count=10&bg_color=ccccee&layout=donut&title_color=ff3860&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&custom_title=Most+used+languages:&show_icons=true&langs_count=10&layout=donut&title_color=7957d5&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&custom_title=Juris+Berkulis's+GitHub+stats:&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&bg_color=ccccee&title_color=ff3860&ring_color=7957d5&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&custom_title=Juris+Berkulis's+GitHub+stats:&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&title_color=7957d5&ring_color=7957d5&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
-| **GitHub Streak** | **Profile views** |
+| **GitHub Streak** | **Profile Views** |
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=buefy#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=vue-dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) | <img src="https://komarev.com/ghpvc/?username=Juris-Berkulis&style=plastic&color=7957d5&label=PROFILE+VIEWS" alt="Profile views"/> |
 
 
