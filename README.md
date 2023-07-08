@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <div id="badges">
     <a href="https://github.com/Juris-Berkulis">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
@@ -8,10 +7,7 @@
       <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Juris-Berkulis&style=plastic&color=006600&label=PROFILE+VIEWS" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=Juris-Berkulis&style=plastic&color=006600&label=PROFILE+VIEWS" alt=""/> -->
 </div>
 
 ---
@@ -25,7 +21,7 @@ Hello! I am a frontend-developer.
 ---
 
 ### Languages and Tools:
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux"  alt="redux" width="40" height="40"/>&nbsp;
@@ -45,14 +41,15 @@ Hello! I am a frontend-developer.
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=dark&background=6495ed)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=vue-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&show_icons=true&layout=donut&theme=vision-friendly-dark&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&show_icons=true&langs_count=20&bg_color=6495ed33&layout=donut&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&show_icons=true&langs_count=20&layout=donut&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&show_icons=true&theme=transparent&bg_color=6495ed10#gh-light-mode-only&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&show_icons=true&theme=algolia&bg_color=00000010#gh-dark-mode-only&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&show_icons=true&include_all_commits=true&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juris-Berkulis)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
