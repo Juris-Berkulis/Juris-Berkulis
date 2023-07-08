@@ -41,13 +41,14 @@ Hello! I am a frontend-developer.
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&bg_color=ccccee&theme=buefy#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=vue-dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&show_icons=true&langs_count=20&bg_color=6495ed33&layout=donut&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&show_icons=true&langs_count=20&layout=donut&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&custom_title=Most+used+languages:&show_icons=true&langs_count=20&bg_color=ccccee&layout=donut&title_color=ff3860&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&custom_title=Most+used+languages:&show_icons=true&langs_count=20&layout=donut&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&show_icons=true&include_all_commits=true&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&custom_title=Juris+Berkulis's+GitHub+stats:&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&bg_color=ccccee&title_color=ff3860&ring_color=7957d5&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&custom_title=Juris+Berkulis's+GitHub+stats:&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 
