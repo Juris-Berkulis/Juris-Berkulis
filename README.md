@@ -1,3 +1,9 @@
+### About Me:
+Hello! I am a frontend-developer.
+- I develop websites, web-applications and games.
+- I use Single Page Application (SPA), Progressive Web Application (PWA), Frontend for Multi Page Application (MPA) approaches.
+- I use Native JavaScript, React and Redux, Vue and Vite, Handlebars.
+
 <div id="header" align="center">
   <div id="badges">
     <a href="https://github.com/Juris-Berkulis">
@@ -12,14 +18,6 @@
 
 ---
 
-### About Me:
-Hello! I am a frontend-developer.
-- I develop websites, web-applications and games.
-- I use Single Page Application (SPA), Progressive Web Application (PWA), Frontend for Multi Page Application (MPA) approaches.
-- I use Native JavaScript, React and Redux, Vue and Vite, Handlebars.
-
----
-
 ### Languages and Tools:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
@@ -30,7 +28,7 @@ Hello! I am a frontend-developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" **alt="webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass"  alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -41,14 +39,13 @@ Hello! I am a frontend-developer.
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&bg_color=ccccee&theme=buefy#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=vue-dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+|Top Langs | GitHub stats |
+| :------: | :----------: |
+| | |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&custom_title=Most+used+languages:&show_icons=true&langs_count=10&bg_color=ccccee&layout=donut&title_color=ff3860&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&custom_title=Most+used+languages:&show_icons=true&langs_count=10&layout=donut&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&custom_title=Juris+Berkulis's+GitHub+stats:&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&bg_color=ccccee&title_color=ff3860&ring_color=7957d5&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&custom_title=Juris+Berkulis's+GitHub+stats:&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
+| **GitHub Streak** | ***Profile views** |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=buefy#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juris-Berkulis&theme=vue-dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) | <img src="https://komarev.com/ghpvc/?username=Juris-Berkulis&style=plastic&color=7957d5&label=PROFILE+VIEWS" alt="Profile views"/> |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&custom_title=Most+used+languages:&show_icons=true&langs_count=20&bg_color=ccccee&layout=donut&title_color=ff3860&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juris-Berkulis&custom_title=Most+used+languages:&show_icons=true&langs_count=20&layout=donut&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&custom_title=Juris+Berkulis's+GitHub+stats:&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&bg_color=ccccee&title_color=ff3860&ring_color=7957d5&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juris-Berkulis&custom_title=Juris+Berkulis's+GitHub+stats:&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 
