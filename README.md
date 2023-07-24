@@ -6,7 +6,7 @@
 Hello! I am a frontend-developer.
 - I develop websites, web-applications and games.
 - I use Single Page Applications (SPA), Progressive Web Applications (PWA), Frontend for Multi Page Applications (MPA) approaches.
-- I use Native JavaScript, React and Redux, Vue and Vuex, Handlebars, builds by WebPack and Vite.
+- I use TypeScript, JavaScript, Vue, Vuex, Pinia, React, Redux, Handlebars, builds by WebPack and Vite.
 
 <div align="center">
   <div id="badges">
